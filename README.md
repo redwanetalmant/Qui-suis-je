@@ -14,4 +14,4 @@ Si vous êtes à la recherche d'un alternant en informatique ou cybersécurité,
 ---
 
 **Contact** :  
-📧 [redwane.talmant@gmail.com](mailto:redwane.talmant@gmail.com)  =
+📧 [redwane.talmant@gmail.com](mailto:redwane.talmant@gmail.com)
