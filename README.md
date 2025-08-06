@@ -1,27 +1,17 @@
-# Redwane Talmant - Web Designer et Développeur Front-End
+# Redwane Talmant - Étudiant en informatique
 
-Bienvenue sur mon profil GitHub !
+Bienvenue sur mon profil GitHub ! (je crois que c'est le moment où il faut se présenter)
 
-Je suis un web designer et développeur front-end passionné par la création d'expériences visuelles uniques et la conception de sites web dynamiques. Avec un parcours diversifié, allant de la création d'identités visuelles pour des entreprises locales à la réalisation de projets en développement web, je m'efforce de donner vie à chaque projet en apportant une attention particulière aux détails, à l'UX/UI et à la performance.
+Je suis un étudiant, passionné par l'informatique, la cybersécurité, et l'art (dans toutes ses formes). Je suis actuellement diplômé d'un BTS Systèmes Numériques, option Informatique et Réseaux. Je souhaite poursuivre mes études en m'orientant vers la cybersécurité offensive, tout en continuant en paralèlle à développer mes centres d'intérêts :
 
-## 🌟 Ce que je fais
+- la création graphique (notamment le webdesign) ;
+- la musique ;
+- le cinéma ;
+- et l'entrepreunariat.
 
-- **Création d'identité visuelle** : Logos, chartes graphiques, et supports visuels pour entreprises locales.
-- **Développement Web** : Conception de sites web réactifs, dynamiques et optimisés (HTML, CSS, JavaScript, PHP).
-- **Gestion de projets créatifs** : Coordination de projets visuels, de la conception à la mise en ligne.
-
-Je suis également passionné par le montage vidéo, la photographie et la gestion de contenu, et je travaille en collaboration avec des petites entreprises pour créer des solutions visuelles sur mesure.
-
-## 🚀 Services offerts
-Je propose des services de création d'image de marque, y compris :
-- **Design graphique** : Logos, affiches, brochures et plus.
-- **Sites Web et Portfolios** : Développement de sites web personnalisés, responsives, et optimisés.
-- **Publicité digitale** : Création de contenus pour des campagnes sur les réseaux sociaux et Google Ads.
-
-Si vous êtes à la recherche de solutions créatives pour votre entreprise ou projet personnel, n'hésitez pas à me contacter pour discuter de vos besoins !
+Si vous êtes à la recherche d'un alternant en informatique ou cybersécurité, je suis votre homme ! Je suis polyvalent, j'ai une grande faculté d'apprentissage et d'adaptation, je suis méticuleux (et un peu perfectionniste sur les bords).
 
 ---
 
 **Contact** :  
-📧 [redwane.talmant@gmail.com](mailto:redwane.talmant@gmail.com)  
-🔗 GitHub : [github.com/redwanetalmant](https://github.com/redwanetalmant)
+📧 [redwane.talmant@gmail.com](mailto:redwane.talmant@gmail.com)  =
